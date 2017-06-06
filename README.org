@@ -2,7 +2,7 @@
 #+DATE: Sunday, Aug 28 2016
 #+STARTUP: content
 
-ess style execution for python
+ess style execution for python originally written by @rhoit
 
 This package is some how similar to the [[https://github.com/ffevotte/isend-mode.el][isend-mode]]. py-exec run the
 python code in the much cooler way some how similar to debugging but
